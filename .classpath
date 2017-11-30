@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="G:/项目集锦/apache-tomcat-7.0.82-src (1)/apache-tomcat-7.0.82-src/lib/ant-1.9.4.jar"/>
+	<classpathentry kind="lib" path="G:/项目集锦/apache-tomcat-7.0.82-src (1)/apache-tomcat-7.0.82-src/lib/ecj-4.4.2.jar"/>
+	<classpathentry kind="lib" path="G:/项目集锦/apache-tomcat-7.0.82-src (1)/apache-tomcat-7.0.82-src/lib/jaxrpc-api-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/项目集锦/apache-tomcat-7.0.82-src (1)/apache-tomcat-7.0.82-src/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="G:/项目集锦/apache-tomcat-7.0.82-src (1)/apache-tomcat-7.0.82-src/lib/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="G:/项目集锦/apache-tomcat-7.0.82-src (1)/apache-tomcat-7.0.82-src/lib/easymock-3.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
